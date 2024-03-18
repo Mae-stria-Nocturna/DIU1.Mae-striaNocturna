@@ -79,17 +79,17 @@ Para el segundo perfil elegimos turistas nacionales ya que granada tiene muchís
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales)
- 
 
+Hemos elegido estas experiencias de usuario ya que nos van a ayudar a resolver algunos problemas o mejoras que vemos posibles, como las clases de teatro personalizadas que aporten experiencias únicas a los usuarios. No son habituales ya que para los habituales tenemos otras ideas para conseguir atraer a más personas a las clases y a las actuaciones, estas ideas se basan más en los perfiles locales.
 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento:  https://github.com/Mae-stria-Nocturna/DIU1.Mae-striaNocturna/blob/master/P1/Usability-review-template.pdf 
+>>> - Valoración final (numérica): 6/10
+>>> - Comentario sobre la valoración:  (60-120 caracteres). 
 
 
 ## Paso 2. UX Design  
