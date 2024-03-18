@@ -68,10 +68,10 @@ Hemos seleccionado "La Seducción" como competidor directo de "La Estupenda" dad
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha
 
-(img/person1.png)
+![Método UX](img/person1.png)
 El primer perfil lo elegimos ya que en granada hay una gran cantidad de actividades disponibles para la gente que se considera aventurera o gente que le gusta el teatro. Este perfil esta hecho para esas personas sean o no de aquí, por eso en este perfil intentamos mezclar un poco estos dos perfiles, y pusimos que era extranjera ya que nos ayudaba a explicar algunos problemas que queríamos solucionar.
 
-(img/person2.png)
+![Método UX](img/person2.png)
 Para el segundo perfil elegimos turistas nacionales ya que granada tiene muchísimos y con uno de nuestros cambios intentamos sacar provecho de esta circunstancia. Este perfil viene con la idea de un tipo de teatro muy personal para el y su pareja basado en la vivencia de una gran experiencia más que en aprender de actuación.
 
 
