@@ -89,7 +89,7 @@ Hemos elegido estas experiencias de usuario ya que nos van a ayudar a resolver a
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  https://github.com/Mae-stria-Nocturna/DIU1.Mae-striaNocturna/blob/master/P1/Usability-review-template.pdf 
 >>> - Valoración final (numérica): 6/10
->>> - Comentario sobre la valoración:  (60-120 caracteres). 
+>>> - Comentario sobre la valoración:Es una página web muy básica pero que las cosas que tiene están claras y se entienden sin gran dificultad. (60-120           caracteres). 
 
 
 ## Paso 2. UX Design  
