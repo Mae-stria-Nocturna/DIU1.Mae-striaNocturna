@@ -33,23 +33,55 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+>>> Describe el plan de User Research (cómo se planteas)
+
+El plan de User Research planteado se centra en mejorar una página web dedicada a promover la participación en obras de teatro y clases de teatro en Granada, dirigida a aficionados al teatro y personas interesadas en esta disciplina. El objetivo es obtener una comprensión profunda de la experiencia del usuario, identificar áreas de mejora, y asegurarse de que la plataforma cumpla con las expectativas del público objetivo. Este enfoque busca comprender las preferencias del público, evaluar la experiencia del usuario, y medir la efectividad de las estrategias de promoción. Se utilizarán métodos de investigación primaria como la etnografía, entrevistas con usuarios, investigación contextual, pruebas de usabilidad, y encuestas post-sesión para recopilar información cualitativa y cuantitativa. La investigación se centrará en temas de alto nivel relacionados con el contenido multimedia preferido por los usuarios, la influencia de este contenido en sus decisiones, y la percepción de la calidad visual y la autenticidad de las obras de teatro. Los participantes incluirán aficionados a innovaciones teatrales, estudiantes de teatro o actuación, y turistas o visitantes locales. Los hallazgos cualitativos y cuantitativos resultantes de la investigación guiarán la optimización de la página web, mejorando la oferta y fortaleciendo la conexión con la audiencia  
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
 
+En el análisis de competidores, se evaluaron tres aplicaciones basadas en varios criterios, incluyendo el modelo de negocio, cuestiones tecnológicas, funcionalidad y uso, usabilidad, y aspectos subjetivos como el diseño web y el valor percibido. A continuación, se describen brevemente estas aplicaciones:
+
+Espacio La Estupenda:
+Modelo de Negocio: Muy bueno, con altas puntuaciones en precio/subscripción, cantidad de opciones, y satisfacción de clientes.
+Cuestiones Tecnológicas: Problemas significativos en carga de la web y navegación.
+Usabilidad: Mejorable, especialmente en dispositivos móviles.
+Aspectos Subjetivos: Aunque tiene un buen diseño web, el valor percibido no es el más alto.
+
+EACT La Seducción:
+Modelo de Negocio: Focalizado en cursos de teatro, con una buena oferta educativa pero limitada en otros aspectos.
+Cuestiones Tecnológicas y Usabilidad: Considerables problemas tecnológicos y de usabilidad.
+Aspectos Subjetivos: El diseño web y el valor percibido son bajos, lo que afecta la conversión de clientes.
+
+La Bobina:
+Modelo de Negocio: Destacado por su prestigio y la calidad de su oferta educativa y de contenido.
+Cuestiones Tecnológicas: Mejores que los competidores, aunque con margen de mejora.
+Usabilidad: Buena, con una experiencia de usuario satisfactoria en diferentes dispositivos.
+Aspectos Subjetivos: Alto diseño web y valor percibido.
+
+Hemos seleccionado "La Seducción" como competidor directo de "La Estupenda" dado que ambas operan como escuelas de teatro dentro del mismo contexto local, presentándose como alternativas inmediatas entre sí para la audiencia de la región. Por otro lado, "La Bobina" ha sido escogida por su reconocida excelencia a nivel nacional, destacándose como una de las instituciones líderes en la enseñanza teatral en España. Su amplia gama de cursos y contenidos ricos marcan un alto estándar en la calidad educativa y cultural en el ámbito del teatro.
+
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+>>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha
+
+(img/person1.png)
+El primer perfil lo elegimos ya que en granada hay una gran cantidad de actividades disponibles para la gente que se considera aventurera o gente que le gusta el teatro. Este perfil esta hecho para esas personas sean o no de aquí, por eso en este perfil intentamos mezclar un poco estos dos perfiles, y pusimos que era extranjera ya que nos ayudaba a explicar algunos problemas que queríamos solucionar.
+
+(img/person2.png)
+Para el segundo perfil elegimos turistas nacionales ya que granada tiene muchísimos y con uno de nuestros cambios intentamos sacar provecho de esta circunstancia. Este perfil viene con la idea de un tipo de teatro muy personal para el y su pareja basado en la vivencia de una gran experiencia más que en aprender de actuación.
+
+
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
+>>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales)
+ 
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
