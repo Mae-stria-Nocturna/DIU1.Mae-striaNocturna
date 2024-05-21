@@ -98,7 +98,7 @@ Hemos elegido estas experiencias de usuario ya que nos van a ayudar a resolver a
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 
 
-![Método UX](img/malla.png)
+(img/malla.png)
    
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
