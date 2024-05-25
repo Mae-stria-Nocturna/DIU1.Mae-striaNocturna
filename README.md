@@ -96,43 +96,38 @@ Hemos elegido estas experiencias de usuario ya que nos van a ayudar a resolver a
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
+(img/malla.png)
+   
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
 
+Plataforma intuitiva y escalable que facilita intercambios y conexiones personalizadas, ofreciendo recomendaciones inteligentes basadas en preferencias del usuario y experiencias locales, con un soporte ágil y seguro.
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
-----
->>> Propuesta de valor 
+FiestaX reinventa la celebración local, transformando eventos ordinarios en experiencias temáticas únicas. Nuestra plataforma conecta a los usuarios con fiestas exclusivas en momentos especiales, fomentando la diversidad y la innovación en cada encuentro.
+
+![Método UX](img/scopeCanva.png)
+
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+User Matrix: Es una técnica que organiza en una tabla las interacciones entre grupos de usuarios y las tareas que pueden realizar en la aplicación,
+marcando con colores las tareas y perfiles más importantes. Por ejemplo, en FiestaX, ayudaría a diferenciar las necesidades de los organizadores de eventos y los asistentes.
+
+Task Flow: Esta técnica muestra visualmente las tareas que los usuarios deben realizar para alcanzar sus objetivos mediante diagramas que indican secuencias y dependencias de acciones.
+En FiestaX, podría ilustrar el proceso desde descubrir eventos hasta la participación en ellos.
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
-----
 
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+![Método UX](img/label.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
@@ -142,7 +137,7 @@ Término | Significado
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
-
+![Método UX](P2/wireframe.png)
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
