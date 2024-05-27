@@ -138,7 +138,7 @@ En FiestaX, podría ilustrar el proceso desde descubrir eventos hasta la partici
 ## Paso 3. Mi UX-Case Study (diseño)
 ![Método UX](P2/wireframe.png)
 
-![Método UX](img/moodboard.png) 3.a Moodboard
+![Método UX](img/MoodBoardX.png) 3.a Moodboard
 -----
 
 
@@ -147,7 +147,7 @@ En FiestaX, podría ilustrar el proceso desde descubrir eventos hasta la partici
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 
-![Método UX](img/landing-page.png)  3.b Landing Page
+![Método UX](img/LandingPageX.png)  3.b Landing Page
 ----
 
 
@@ -163,6 +163,7 @@ En FiestaX, podría ilustrar el proceso desde descubrir eventos hasta la partici
 ----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Enlace: https://www.figma.com/proto/HLlWfFmZFIBRQrbpxl0pRr/LAYOUT-HI-FI?node-id=38-211&t=YLU3J0NxgLxwBMHf-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=38%3A211
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
