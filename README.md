@@ -4,12 +4,12 @@ Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: La Estupenda )
 Grupo: DIU1_Mae-striaNocturna.  Curso: 2023/24 
 Updated: 11/2/2024
 
-Proyecto: fiestaX
+Proyecto: 
+FiestaX
 
 
 Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+FiestaX es un proyecto diseñado para revolucionar el mundo de la fiesta, llevando al siguiente nivel las fiestas temáticas.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
