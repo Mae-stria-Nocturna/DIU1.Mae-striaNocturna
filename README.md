@@ -138,20 +138,20 @@ En FiestaX, podría ilustrar el proceso desde descubrir eventos hasta la partici
 ## Paso 3. Mi UX-Case Study (diseño)
 ![Método UX](P2/wireframe.png)
 
-![Método UX](img/MoodBoardX.png) 3.a Moodboard
+![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
+![Método UX](img/MoodBoardX.png)
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 
-![Método UX](img/LandingPageX.png)  3.b Landing Page
+![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
 >>> Plantear Landing Page 
+![Método UX](img/LandingPageX.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
