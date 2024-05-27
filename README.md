@@ -4,8 +4,8 @@ Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: La Estupenda )
 Grupo: DIU1_Mae-striaNocturna.  Curso: 2023/24 
 Updated: 11/2/2024
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto: fiestaX
+
 
 Descripción: 
 
@@ -22,7 +22,6 @@ Miembros
 
 
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
